@@ -6,12 +6,12 @@ A demo Laravel application that allows users to add new members with the fields 
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/yourrepository.git
+git clone https://github.com/erneha2987/member.git
 ```
 
 2. Change to the project directory:
 ```
-cd yourrepository
+cd member
 ```
 
 3. Install the dependencies using Composer:
